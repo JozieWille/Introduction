@@ -1,6 +1,5 @@
 ### Hi, I'm Jozie
 
-I'm continuously improving my skill in R Studio, Python and SQL,
-as a current Master's degree student in Business Analytics. 
+As a current Business Analytics Master's degree student, I'm eager to continue improving my skills in R Studio, Python and SQL. 
 
 To connect, please contact me at: willejozie@gmail.com
