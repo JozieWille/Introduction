@@ -1,5 +1,7 @@
 ### Hi, I'm Jozie
 
-As a current Business Analytics Master's degree student, I'm eager to continue improving my skills in R Studio, Python and SQL. 
+Data and analytics engineer building production data pipelines,
+SQL Server warehouses, and full-stack reporting tools.
 
-To connect, please contact me at: willejozie@gmail.com
+Languages: Python · SQL (T-SQL) · TypeScript
+Tools: SQL Server · Next.js · R · Tableau · Airflow
